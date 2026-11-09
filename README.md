@@ -51,7 +51,7 @@ Parameter	Value
 
 ## Results
 Measure	Value
-Probability of ruin=	0.58
+Probability of ruin=	0.58%
 Number of ruined retirees (out of 5,000)	= 29
 Median legacy (non-ruined retirees)	= 1285808
 
